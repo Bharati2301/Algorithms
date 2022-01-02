@@ -37,4 +37,4 @@
     * AdaBoost
     * Gradient Boosting
   5. Voting Classifier:
-    * Compares all the Classification algorithms mentioned above.
+      * Compares all the Classification algorithms mentioned above.
