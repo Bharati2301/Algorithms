@@ -36,5 +36,5 @@
 4. Boostong Techniques: 
     * AdaBoost
     * Gradient Boosting
-  5. Voting Classifier: <br>
+  5. Voting Classifier:
     * Compares all the Classification algorithms mentioned above.
